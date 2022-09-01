@@ -1,2 +1,2 @@
 # abhineet.site
-abhineet.site (Abhineet Swain's Website) web project
+abhineet.site (Abhineet Swain's Website) 
